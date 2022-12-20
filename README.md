@@ -1,11 +1,11 @@
 <!-- SihyunLee -->
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Sihyun%20Lee&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🐱%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Jungjin%20Oh&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🥸%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">Techs that I've used</p>
 
 <p align = "center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-F6C915?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-006D5C?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
